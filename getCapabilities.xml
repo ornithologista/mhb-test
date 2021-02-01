@@ -180,8 +180,8 @@
 					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸5</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
-				<LatLonBoundingBox minx="8.360544015397219" miny="48.99667140813202" maxx="8.374181074789393" maxy="49.00553464787881"></LatLonBoundingBox>
-				<BoundingBox SRS="EPSG:4326" minx="3453290.5" miny="5429014.0" maxx="3454280.25" maxy="5429991.5"></BoundingBox>
+				<LatLonBoundingBox minx="8.360544015397219" miny="48.99668939103585" maxx="8.374156936415105" maxy="49.00553451825625"></LatLonBoundingBox>
+				<BoundingBox SRS="EPSG:4326" minx="3453290.5" miny="5429016.0" maxx="3454278.5" maxy="5429991.5"></BoundingBox>
 				<Style>
 					<Name>1</Name>
 					<Title>1</Title>
@@ -200,8 +200,8 @@
 					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸5</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
-				<LatLonBoundingBox minx="8.358873070178019" miny="48.993623075469536" maxx="8.375547922910279" maxy="49.00608582691895"></LatLonBoundingBox>
-				<BoundingBox SRS="EPSG:4326" minx="3453168.75" miny="5428676.0" maxx="3454377.5" maxy="5430052.0"></BoundingBox>
+				<LatLonBoundingBox minx="8.358873070178019" miny="48.9961676563349" maxx="8.374679189894195" maxy="49.00608129673486"></LatLonBoundingBox>
+				<BoundingBox SRS="EPSG:4326" minx="3453168.75" miny="5428959.0" maxx="3454316.25" maxy="5430052.0"></BoundingBox>
 				<Style>
 					<Name>1</Name>
 					<Title>1</Title>
