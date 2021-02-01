@@ -177,7 +177,7 @@
 				<Title>tageskarten</Title>
 				<Abstract>GH:tageskarten ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸5</Keyword>
+					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸13</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="8.360544015397219" miny="48.99668939103585" maxx="8.374156936415105" maxy="49.00553451825625"></LatLonBoundingBox>
@@ -197,7 +197,7 @@
 				<Title>reviere</Title>
 				<Abstract>GH:reviere ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸5</Keyword>
+					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸13</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="8.358873070178019" miny="48.9961676563349" maxx="8.374679189894195" maxy="49.00608129673486"></LatLonBoundingBox>
@@ -217,7 +217,7 @@
 				<Title>probeflache_000</Title>
 				<Abstract>GH:probeflache_000 ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸5</Keyword>
+					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸13</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="8.360568046569824" miny="48.99656295776367" maxx="8.374308586120605" maxy="49.00566101074219"></LatLonBoundingBox>
